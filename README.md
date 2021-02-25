@@ -8,7 +8,6 @@ Data sources is download from here [UCI](https://archive.ics.uci.edu/ml/datasets
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 # Running the tests
-- You can find the training and test data under /data/ folder.
 - The main script is "Default_of_credit_card_clients.ipynb" notebook, which includes the codes and documentation of exploring the dataset. 
 - For more information about model training and model validation, please check notebook.
 
