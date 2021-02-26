@@ -1,5 +1,5 @@
 # Default-of-credit-card-clients
-Binary classification model for predict credit card default 
+Binary classification model to predict credit card default 
 
 Data sources is download from here [UCI](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#)
 
